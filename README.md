@@ -11,12 +11,6 @@ This package is a GitHub Pages–ready interactive viewer for sea-level-rise and
 - About/info modal explaining methodology, scenarios, and limitations
 - Flood opacity control
 
-## Publish on GitHub Pages
-1. Create a GitHub repository.
-2. Upload all files from this folder.
-3. In repository settings, enable GitHub Pages from the main branch/root folder.
-4. Open the published `index.html` page.
-
 ## Notes
 - The viewer uses a bathtub inundation approach with a coastal-connectivity constraint.
 - Internet access is required for the satellite basemap tiles to load.
